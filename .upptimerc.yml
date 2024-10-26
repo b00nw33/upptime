@@ -5,8 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Flask on Vercel
     url: https://td-flask.vercel.app
+  - name: NextJS on Vercel
+    url: https://td-nextjs.vercel.app
   - name: Flask on Render
-    url: https://td-flask.onrender.com/
+    url: https://td-flask.onrender.com
+  - name: NextJS on Render
+    url: https://td-nextjs.onrender.com
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
