@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 479,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 687,
+    "timeDay": 687,
+    "timeWeek": 687,
+    "timeMonth": 687,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/td-flask.onrender.com.ico",
     "slug": "flask-on-render",
     "status": "up",
-    "uptime": "88.00%",
-    "uptimeDay": "88.00%",
-    "uptimeWeek": "88.00%",
-    "uptimeMonth": "88.00%",
-    "uptimeYear": "88.00%",
-    "time": 6831,
-    "timeDay": 6831,
-    "timeWeek": 6831,
-    "timeMonth": 6831,
-    "timeYear": 6831,
+    "uptime": "94.40%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "94.40%",
+    "time": 5713,
+    "timeDay": 5713,
+    "timeWeek": 5713,
+    "timeMonth": 5713,
+    "timeYear": 5713,
     "dailyMinutesDown": {
       "2024-10-26": 70
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6206,
-    "timeDay": 6206,
-    "timeWeek": 6206,
-    "timeMonth": 6206,
-    "timeYear": 6206,
+    "time": 4190,
+    "timeDay": 4190,
+    "timeWeek": 4190,
+    "timeMonth": 4190,
+    "timeYear": 4190,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/autopycaret.streamlit.app.ico",
     "slug": "autopycaret-on-streamlit",
     "status": "down",
-    "uptime": "16.25%",
-    "uptimeDay": "16.25%",
-    "uptimeWeek": "16.25%",
-    "uptimeMonth": "16.25%",
-    "uptimeYear": "16.25%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-27": 96,
+      "2024-10-26": 570
     }
   },
   {
@@ -99,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-test-pycaret.streamlit.app.ico",
     "slug": "pycaret-test-on-streamlit",
     "status": "down",
-    "uptime": "19.61%",
-    "uptimeDay": "19.61%",
-    "uptimeWeek": "19.61%",
-    "uptimeMonth": "19.61%",
-    "uptimeYear": "19.61%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-27": 96,
+      "2024-10-26": 570
     }
   }
 ]
