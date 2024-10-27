@@ -40,19 +40,19 @@
     "url": "https://td-flask.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/td-flask.onrender.com.ico",
     "slug": "flask-on-render",
-    "status": "up",
-    "uptime": "93.45%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "93.45%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "93.45%",
+    "status": "down",
+    "uptime": "93.50%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "93.50%",
     "time": 6409,
     "timeDay": 4757,
     "timeWeek": 6409,
     "timeMonth": 6409,
     "timeYear": 6409,
     "dailyMinutesDown": {
-      "2024-10-27": 57,
+      "2024-10-27": 58,
       "2024-10-26": 70
     }
   },
@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/td-nextjs.onrender.com.ico",
     "slug": "next-js-on-render",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.18%",
     "uptimeDay": "98.12%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
     "time": 4829,
     "timeDay": 5987,
     "timeWeek": 4829,
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 779,
+      "2024-10-27": 805,
       "2024-10-26": 570
     }
   },
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 779,
+      "2024-10-27": 805,
       "2024-10-26": 570
     }
   }
