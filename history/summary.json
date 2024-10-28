@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 1310,
-    "timeWeek": 687,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "time": 790,
+    "timeDay": 1202,
+    "timeWeek": 790,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 56,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 135,
+    "timeDay": 86,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/td-flask.onrender.com.ico",
     "slug": "flask-on-render",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "95.28%",
     "uptimeDay": "96.06%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "94.97%",
-    "uptimeYear": "94.97%",
-    "time": 5287,
-    "timeDay": 4000,
-    "timeWeek": 5287,
-    "timeMonth": 5287,
-    "timeYear": 5287,
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "95.28%",
+    "time": 4859,
+    "timeDay": 4005,
+    "timeWeek": 4859,
+    "timeMonth": 4859,
+    "timeYear": 4859,
     "dailyMinutesDown": {
       "2024-10-27": 57,
       "2024-10-26": 70
@@ -62,18 +62,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/td-nextjs.onrender.com.ico",
     "slug": "next-js-on-render",
     "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
-    "time": 3506,
-    "timeDay": 2426,
-    "timeWeek": 3506,
-    "timeMonth": 3506,
-    "timeYear": 3506,
+    "uptime": "98.77%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
+    "time": 3091,
+    "timeDay": 2432,
+    "timeWeek": 3091,
+    "timeMonth": 3091,
+    "timeYear": 3091,
     "dailyMinutesDown": {
-      "2024-10-27": 36
+      "2024-10-27": 27
     }
   },
   {
@@ -93,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 1364,
+      "2024-10-28": 86,
+      "2024-10-27": 1440,
       "2024-10-26": 570
     }
   },
@@ -114,7 +115,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 1364,
+      "2024-10-28": 86,
+      "2024-10-27": 1440,
       "2024-10-26": 570
     }
   }
