@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/td-flask.onrender.com.ico",
     "slug": "flask-on-render",
     "status": "up",
-    "uptime": "95.23%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
+    "uptime": "95.52%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.52%",
     "time": 3931,
     "timeDay": 3335,
     "timeWeek": 3931,
     "timeMonth": 3931,
     "timeYear": 3931,
     "dailyMinutesDown": {
-      "2024-10-28": 28,
+      "2024-10-28": 20,
       "2024-10-27": 57,
       "2024-10-26": 70
     }
@@ -62,12 +62,12 @@
     "url": "https://td-nextjs.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/td-nextjs.onrender.com.ico",
     "slug": "next-js-on-render",
-    "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.03%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
     "time": 3993,
     "timeDay": 2948,
     "timeWeek": 3993,
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-28": 653,
+      "2024-10-28": 673,
       "2024-10-27": 1440,
       "2024-10-26": 570
     }
@@ -117,7 +117,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-28": 653,
+      "2024-10-28": 673,
       "2024-10-27": 1440,
       "2024-10-26": 570
     }
