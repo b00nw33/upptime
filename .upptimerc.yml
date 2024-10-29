@@ -3,6 +3,8 @@ owner: b00nw33 # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: CF-Jekyll on Vercel
+    url: https://cf-jekyll.vercel.app
   - name: CF-Jekyll on Github
     url: https://b00nw33.github.io/cf-jekyll
   - name: CF-Jekyll on CloudFlare
@@ -15,10 +17,10 @@ sites:
     url: https://cf-nextjs.vercel.app    
   - name: NextJS on Vercel
     url: https://td-nextjs.vercel.app
-  - name: Flask on Vercel
-    url: https://td-flask.vercel.app
   - name: NextJS on Render
     url: https://td-nextjs.onrender.com
+  - name: Flask on Vercel
+    url: https://td-flask.vercel.app
   - name: Flask on Render
     url: https://td-flask.onrender.com
   # - name: Autopycaret on Streamlit
