@@ -15,10 +15,10 @@ sites:
     url: https://td-flask.onrender.com
   - name: NextJS on Render
     url: https://td-nextjs.onrender.com
-  - name: Autopycaret on Streamlit
-    url: https://autopycaret.streamlit.app
-  - name: Pycaret Test on Streamlit
-    url: https://app-test-pycaret.streamlit.app
+  # - name: Autopycaret on Streamlit
+  #   url: https://autopycaret.streamlit.app
+  # - name: Pycaret Test on Streamlit
+  #   url: https://app-test-pycaret.streamlit.app
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
