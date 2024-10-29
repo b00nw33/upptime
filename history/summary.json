@@ -36,24 +36,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Flask on Vercel",
-    "url": "https://td-flask.vercel.app",
-    "icon": "https://icons.duckduckgo.com/ip3/td-flask.vercel.app.ico",
-    "slug": "flask-on-vercel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 1189,
-    "timeWeek": 939,
-    "timeMonth": 939,
-    "timeYear": 939,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "NextJS on Vercel",
     "url": "https://td-nextjs.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/td-nextjs.vercel.app.ico",
@@ -72,26 +54,22 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Flask on Render",
-    "url": "https://td-flask.onrender.com",
-    "icon": "https://icons.duckduckgo.com/ip3/td-flask.onrender.com.ico",
-    "slug": "flask-on-render",
+    "name": "Flask on Vercel",
+    "url": "https://td-flask.vercel.app",
+    "icon": "https://icons.duckduckgo.com/ip3/td-flask.vercel.app.ico",
+    "slug": "flask-on-vercel",
     "status": "up",
-    "uptime": "95.23%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
-    "time": 5194,
-    "timeDay": 5695,
-    "timeWeek": 5194,
-    "timeMonth": 5194,
-    "timeYear": 5194,
-    "dailyMinutesDown": {
-      "2024-10-28": 70,
-      "2024-10-27": 57,
-      "2024-10-26": 70
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 939,
+    "timeDay": 1189,
+    "timeWeek": 939,
+    "timeMonth": 939,
+    "timeYear": 939,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NextJS on Render",
@@ -112,6 +90,28 @@
     "dailyMinutesDown": {
       "2024-10-28": 55,
       "2024-10-27": 27
+    }
+  },
+  {
+    "name": "Flask on Render",
+    "url": "https://td-flask.onrender.com",
+    "icon": "https://icons.duckduckgo.com/ip3/td-flask.onrender.com.ico",
+    "slug": "flask-on-render",
+    "status": "up",
+    "uptime": "95.24%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "95.24%",
+    "time": 5194,
+    "timeDay": 5695,
+    "timeWeek": 5194,
+    "timeMonth": 5194,
+    "timeYear": 5194,
+    "dailyMinutesDown": {
+      "2024-10-28": 70,
+      "2024-10-27": 57,
+      "2024-10-26": 70
     }
   }
 ]
