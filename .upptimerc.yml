@@ -6,15 +6,15 @@ sites:
   - name: CF-NextJS on CloudFlare
     url: https://cf-nextjs-014.pages.dev
   - name: CF-NextJS on Vercel
-    url: https://cf-nextjs.vercel.app
-  - name: Flask on Vercel
-    url: https://td-flask.vercel.app
+    url: https://cf-nextjs.vercel.app    
   - name: NextJS on Vercel
     url: https://td-nextjs.vercel.app
-  - name: Flask on Render
-    url: https://td-flask.onrender.com
+  - name: Flask on Vercel
+    url: https://td-flask.vercel.app
   - name: NextJS on Render
     url: https://td-nextjs.onrender.com
+  - name: Flask on Render
+    url: https://td-flask.onrender.com
   # - name: Autopycaret on Streamlit
   #   url: https://autopycaret.streamlit.app
   # - name: Pycaret Test on Streamlit
