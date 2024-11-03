@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-03": 578
+      "2024-11-03": 585
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://td-streamlit.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/td-streamlit.onrender.com.ico",
     "slug": "td-streamlit-on-render",
-    "status": "down",
-    "uptime": "87.97%",
-    "uptimeDay": "87.97%",
-    "uptimeWeek": "87.97%",
-    "uptimeMonth": "87.97%",
-    "uptimeYear": "87.97%",
-    "time": 2970,
-    "timeDay": 2970,
-    "timeWeek": 2970,
-    "timeMonth": 2970,
-    "timeYear": 2970,
+    "status": "up",
+    "uptime": "86.89%",
+    "uptimeDay": "86.89%",
+    "uptimeWeek": "86.89%",
+    "uptimeMonth": "86.89%",
+    "uptimeYear": "86.89%",
+    "time": 2439,
+    "timeDay": 2439,
+    "timeWeek": 2439,
+    "timeMonth": 2439,
+    "timeYear": 2439,
     "dailyMinutesDown": {
-      "2024-11-03": 69
+      "2024-11-03": 76
     }
   },
   {
@@ -171,11 +171,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/td-nextjs.onrender.com.ico",
     "slug": "next-js-on-render",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "97.53%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "97.54%",
     "time": 3241,
     "timeDay": 2412,
     "timeWeek": 3112,
