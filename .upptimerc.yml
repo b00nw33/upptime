@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: react2025 on CloudFlare
     url: https://react2025.pages.dev
-    - name: react2025 on Vercel
+  - name: react2025 on Vercel
     url: https://react2025-bice.vercel.app
   - name: CC-Jekyll on Netlify
     url: https://cc-jekyll.netlify.app
