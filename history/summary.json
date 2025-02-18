@@ -4,19 +4,19 @@
     "url": "https://react2025.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/react2025.netlify.app.ico",
     "slug": "react2025-on-netlify",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 229,
-    "timeDay": 230,
-    "timeWeek": 278,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 220,
+    "timeDay": 166,
+    "timeWeek": 251,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-02-18": 20
+      "2025-02-18": 39
     }
   },
   {
