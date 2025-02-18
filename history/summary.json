@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/react2025.netlify.app.ico",
     "slug": "react2025-on-netlify",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 229,
     "timeDay": 230,
     "timeWeek": 278,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-02-18": 0
+      "2025-02-18": 20
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://cc-jekyll.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/cc-jekyll.netlify.app.ico",
     "slug": "cc-jekyll-on-netlify",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 171,
-    "timeWeek": 107,
-    "timeMonth": 267,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 212,
+    "timeDay": 125,
+    "timeWeek": 99,
+    "timeMonth": 261,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-02-18": 0
+      "2025-02-18": 20
     }
   },
   {
