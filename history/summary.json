@@ -4,9 +4,9 @@
     "url": "https://react2025.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/react2025.netlify.app.ico",
     "slug": "react2025-on-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 145,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2025-03-23": 0,
       "2025-02-18": 39
     }
   },
@@ -60,9 +61,9 @@
     "url": "https://cc-jekyll.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/cc-jekyll.netlify.app.ico",
     "slug": "cc-jekyll-on-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -72,6 +73,7 @@
     "timeMonth": 145,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2025-03-23": 0,
       "2025-02-18": 41
     }
   },
