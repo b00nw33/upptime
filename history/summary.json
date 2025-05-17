@@ -206,17 +206,19 @@
     "url": "https://td-flask.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/td-flask.vercel.app.ico",
     "slug": "flask-on-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 1183,
-    "timeWeek": 1087,
-    "timeMonth": 1024,
-    "timeYear": 968,
-    "dailyMinutesDown": {}
+    "time": 974,
+    "timeDay": 1768,
+    "timeWeek": 1245,
+    "timeMonth": 1067,
+    "timeYear": 974,
+    "dailyMinutesDown": {
+      "2025-05-17": 0
+    }
   }
 ]
