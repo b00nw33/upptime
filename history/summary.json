@@ -43,9 +43,9 @@
     "url": "https://react2025-bice.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/react2025-bice.vercel.app.ico",
     "slug": "react2025-on-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -55,6 +55,7 @@
     "timeMonth": 111,
     "timeYear": 132,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-07-19": 31
     }
   },
@@ -83,10 +84,10 @@
     "url": "https://cf-jekyll.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/cf-jekyll.vercel.app.ico",
     "slug": "cf-jekyll-on-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 128,
@@ -95,6 +96,7 @@
     "timeMonth": 127,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-07-19": 31
     }
   },
@@ -175,10 +177,10 @@
     "url": "https://cf-nextjs.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/cf-nextjs.vercel.app.ico",
     "slug": "cf-next-js-on-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 126,
@@ -187,6 +189,7 @@
     "timeMonth": 124,
     "timeYear": 126,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-07-19": 31
     }
   },
@@ -195,10 +198,10 @@
     "url": "https://td-nextjs.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/td-nextjs.vercel.app.ico",
     "slug": "next-js-on-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 123,
@@ -207,6 +210,7 @@
     "timeMonth": 130,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-07-19": 31
     }
   },
@@ -216,18 +220,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/td-flask.vercel.app.ico",
     "slug": "flask-on-vercel",
     "status": "down",
-    "uptime": "75.66%",
+    "uptime": "75.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.66%",
+    "uptimeYear": "75.47%",
     "time": 1849,
     "timeDay": 4631,
     "timeWeek": 4651,
     "timeMonth": 4077,
     "timeYear": 1849,
     "dailyMinutesDown": {
-      "2025-07-22": 115,
+      "2025-07-22": 1075,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
